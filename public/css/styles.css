@@ -1,0 +1,59 @@
+h1 {
+    color: black;
+}
+
+
+
+body {
+    background-image: url("https://www.offalyexpress.ie/resizer/-1/-1/true/1530458397892.jpg--.jpg?1530458397000");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.footer{
+    position: absolute;
+    width: 50%;
+    bottom: 30px;
+    font-size: 0.7rem;
+    font-color:white;
+    font-family: sans-serif;
+}
+.para{
+  text-align:center;
+  font-family:sans-serif;
+  font-size:15px;
+  font-size: 0.7rem;
+  color: white
+}
+
+input {
+    border: 1px solid #cccccc;
+    padding: 8px;
+}
+
+button {
+    border: 0.7px solid #888888;
+    cursor: pointer;
+    padding: 8px;
+    color: white;
+    background: black;
+}
+
+#weather {
+    text-align: center;
+    font-family:helvetica;
+    font-size:16px;
+    color:#282828;
+    margin-left: 180px;
+    margin-right: 280px;
+}
+
+
+#location {
+    text-align: center;
+    font-family:helvetica;
+    font-size:16px;
+    color:#282828;
+    margin-left: 180px;
+    margin-right: 280px;
+}
